@@ -5,7 +5,7 @@
 ![davi2003cardoso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi2003cardoso&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandodomeneghetti/fernandodomeneghetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandodomeneghetti/fernandodomeneghetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fernandodomeneghetti/fernandodomeneghetti/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davi2003cardoso/davi2003cardoso/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davi2003cardoso/davi2003cardoso/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davi2003cardoso/davi2003cardoso/output/github-contribution-grid-snake.svg">
 </picture>
